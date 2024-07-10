@@ -8,7 +8,7 @@ With a primary focus on the domains of automotive and power systems, and flexibl
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOTIVES-LAB&layout=compact&theme=flat)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MOTIVES-LAB&style=flat&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/MOTIVES-LAB?style=flat&logo=github&color=blue)
+
 
 
 
