@@ -7,6 +7,12 @@ With a primary focus on the domains of automotive and power systems, and flexibl
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOTIVES-LAB&layout=compact&theme=flat)
 
+Discover our approach to **generalizing energy consumption evaluation for electric vehicles** in our [repo](https://github.com/MOTIVES-LAB/generalized-energy-consumption-evaluation-for-ev).   
+An online demo app is also available [here](https://motives-lab.github.io/GECR_web/).  
+
+  
+Feel free to interact with us in the  [Discussions](https://github.com/MOTIVES-LAB/MOTIVES-LAB/discussions).
+
 ![Profile Views](https://komarev.com/ghpvc/?username=MOTIVES-LAB&style=flat&color=blue)
 
 
