@@ -5,7 +5,7 @@ MOTIVES stands for **M**odeling **O**ptimization **T**echnology **I**nnovation o
 </p> 
 With a primary focus on the domains of automotive and power systems, and flexible implementation of physical-based, data-driven, and hybrid modeling approaches on control, optimization, and evaluation, we aim to achieve an extensive understanding, accurate prediction, and effective optimization of the transportation and energy systems toward more sustainable practices.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOTIVES-LAB&layout=compact&theme=flat)
+
 
 - Discover our approach to **generalizing energy consumption evaluation for electric vehicles** in our [repo](https://github.com/MOTIVES-LAB/generalized-energy-consumption-evaluation-for-ev).   
   An online demo app is also available [here](https://motives-lab.github.io/GECR_web/).  
